@@ -29,7 +29,7 @@
 
 声卡&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;Realtek **ALC283**
 
-网卡&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;Realtek PCIe GbE Family Controller / Broadcom  **BCM94352HMB**
+网卡&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;Realtek PCIe GbE Family Controller /   **BCM94352HMB**
 
 
 驱动情况：
