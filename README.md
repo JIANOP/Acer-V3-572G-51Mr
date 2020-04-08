@@ -52,7 +52,7 @@
 
 感谢：
 
-==**AnoldmanLiSir**==
+==**AnoldmanLiSir（https://github.com/AnoldmanLiSir） **==
 
 [黑果小兵的部落阁](https://blog.daliansky.net/)、
 
